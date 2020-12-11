@@ -1,0 +1,8 @@
+levels/
+__pycache__/
+*.pyc
+*.exe
+*.bin
+*.dat
+heapdump
+mk.gif
