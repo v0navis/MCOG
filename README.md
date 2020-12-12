@@ -2,7 +2,7 @@
 
 **MeteoriteCore** - fast and stable server software for Minecraft: PE alpha, written in Go and based on the source code [lav7](https://github.com/romanalexander/lav7) (trace of the original resource github.com/L7-MCPE/lav7/, which no longer exists).
 
-## Getting started on Windows
+## Getting started
 
 1. Go to folder: `cd /lav7start`
 
