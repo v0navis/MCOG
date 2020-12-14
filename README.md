@@ -1,6 +1,6 @@
-# MeteoriteCore
+# MCOG
 
-**MeteoriteCore** - fast and stable server software for Minecraft: PE alpha, written in Go and based on the source code [lav7](https://github.com/romanalexander/lav7) (trace of the original resource github.com/L7-MCPE/lav7/, which no longer exists).
+**MCOG** (MeteoriteCore On Go) - fast and stable server software for Minecraft: PE alpha, written in Go and based on the source code [lav7](https://github.com/romanalexander/lav7) (trace of the original resource github.com/L7-MCPE/lav7/, which no longer exists).
 
 ## Getting started
 
